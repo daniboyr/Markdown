@@ -27,8 +27,8 @@ Agradecimento especial á @ikatyang, pelo o incrível trabalho neste [repositór
 
 **Network**
 Minhas redes sociais:
-[GitHub](https://github.com/daniboyr)
-[LinkedIn](https://www.linkedin.com/in/danielsruas/)
+[GitHub](https://github.com/daniboyr)-
+[LinkedIn](https://www.linkedin.com/in/danielsruas/)-
 [Instagram](https://www.instagram.com/rruasdaniel/)
 
 ![Emote](https://user-images.githubusercontent.com/109623697/184075078-6d6b89ae-35cd-4925-a028-220f82aeaa58.png)
